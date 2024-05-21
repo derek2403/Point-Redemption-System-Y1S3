@@ -1,0 +1,18 @@
+1001,Cash Voucher RM50,5000,900
+1002,Cash Voucher RM100,10000,79
+1003,Cash Voucher RM200,20000,50
+1004,Luggage Cabin 19 inches,3000,30
+1005,Luggage Compact 25 inches,5000,30
+1006,Luggage Medium 26 inches,6000,30
+1007,Luggage Large 30 inches,8000,30
+1008,Casio watch GA-2300,6000,30
+1009,Iphone 15 128GB 6.1-inch,45000,10
+1010,Ipad Air 6 128GB 11-inch,30000,7
+1011,Apple Watch Series 9,19000,9
+1012,Dyson Hair Dryer,24000,10
+1013,Dyson V8 Absolute,19000,10
+1014,PlayStation 5,25000,10
+1015,Nintendo Switch OLED,15000,10
+1016,Sony WH-1000XM5 Noise Cancelling Headphones,18000,10
+1017,Sony Vlog Camera ZV-1F,22000,10
+1018,GoPro HERO12 Black Creator Edition,25000,1500

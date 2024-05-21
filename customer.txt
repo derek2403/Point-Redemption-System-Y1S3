@@ -1,0 +1,2 @@
+C101,DEREKK,derek@gmail.com,Jalan Ipoh,M,0123456789,10000
+C100,DEREK,derek@gmail.com,Jalan Ipoh,M,0123456789,999647300

@@ -1,0 +1,15 @@
+R000,Sample,2024-05-10 02:55:36
+R001,CustomerReport.xlsx,2024-05-14 10:07:39 (deleted)
+R002,AdminReport.xlsx,2024-05-14 17:02:19 (deleted)
+R003,CustomerReport.xlsx,2024-05-14 17:05:50 (deleted)
+R004,yearly_sales.txt,2024-05-14 17:15:13 (deleted)
+R005,Sales for 2024.txt,2024-05-14 17:15:30 (deleted)
+R006,yearly_sales.txt,2024-05-14 17:15:42 (deleted)
+R007,Points_Deduction_History.xlsx,2024-05-14 17:27:56 (deleted)
+R008,rewardshistory.txt,2024-05-14 17:30:44 (deleted)
+R009,AdminReport.xlsx,2024-05-18 16:30:33
+R010,CustomerReport.xlsx,2024-05-18 16:31:18
+R011,yearly_sales.txt,2024-05-18 16:32:36
+R012,Sales for 2024.txt,2024-05-18 16:33:26
+R013,Points_Deduction_History.xlsx,2024-05-18 16:33:54 (deleted)
+R014,rewardshistory.txt,2024-05-18 16:34:26 (deleted)

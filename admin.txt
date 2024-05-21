@@ -1,0 +1,6 @@
+A691,haha,@,1,M,0122134124,Information Technology,ABcd123.
+A891,haha,@,1,M,0122134124,Human Resources,ABcd123.
+A888,haha,@,1,M,0122134124,Human Resources,8
+A621,haha,@,1,M,0122134124,Information Technology,ABcd123.
+A109,DEREK,derek@gmail.com,Jalan Ipoh,M,0123456789,Human Resources,Abcd123..A245,James,james@yahoo.com,Setapak PV12,M,0129987723,Support Team,1872AbA..
+A540,James,james@gmail.com,Jalan Setapak,M,0123456789,Human Resources,Abcd123.

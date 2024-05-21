@@ -1,0 +1,9 @@
+RED001,C100,DEREK,derek@gmail.com,Jalan Ipoh,Cash Voucher RM200,10
+RED002,C100,DEREK,derek@gmail.com,Jalan Ipoh,Cash Voucher RM100,5
+RED003,C100,DEREK,derek@gmail.com,Jalan Ipoh,Cash Voucher RM200,2
+RED004,C100,DEREK,derek@gmail.com,Jalan Ipoh,Cash Voucher RM200,10
+RED005,C100,DEREK,derek@gmail.com,Jalan Ipoh,Cash Voucher RM200,2
+RED006,C100,DEREK,derek@gmail.com,Jalan Ipoh,Cash Voucher RM200,1
+RED007,C100,DEREK,derek@gmail.com,Jalan Ipoh,Apple Watch Series 9,1
+RED008,C100,DEREK,derek@gmail.com,Jalan Ipoh,Cash Voucher RM100,2
+RED009,C100,DEREK,derek@gmail.com,Jalan Ipoh,Cash Voucher RM100,1
